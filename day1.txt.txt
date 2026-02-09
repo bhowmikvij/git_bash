@@ -1,0 +1,3 @@
+Day 1:
+Started my daily GitHub commit journey.
+Learning Git and GitHub.
